@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wish-baek)]([https://github.com/Wish-baek/Wish-baek/blob/master/README.md](https://github.com/Wish-baek/JAVA_Baekjoon))
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
