@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://github.com/Wish-baek)
 	
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)]([https://www.linkedin.com/in/%EC%86%8C%EC%9B%90-%EB%B0%B1-72470523b/](https://www.linkedin.com/feed/))
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/%EC%86%8C%EC%9B%90-%EB%B0%B1-72470523b/)]([https://www.linkedin.com/in/%EC%86%8C%EC%9B%90-%EB%B0%B1-72470523b/](https://www.linkedin.com/feed/))
 	
 
 	
