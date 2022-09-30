@@ -1,5 +1,5 @@
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dnjs0236)](https://solved.ac/dnjs0236)
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dnjs0236)](https://solved.ac/dnjs0236) 
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnjs0236)](https://solved.ac/dnjs0236) 
