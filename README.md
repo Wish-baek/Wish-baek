@@ -1,10 +1,8 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnjs0236)](https://solved.ac/dnjs0236)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=dnjs0236)](https://solved.ac/dnjs0236)
 
- <img src="http://mazandi.herokuapp.com/api?handle={dnjs0236}&theme=warm"/>
+ <img src="http://mazandi.herokuapp.com/api?handle=dnjs0236&theme=warm"/>
 <!--
 **Wish-baek/Wish-baek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
