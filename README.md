@@ -6,6 +6,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWish-baek&count_bg=%23699142&title_bg=%239FB346&icon=smugmug.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
- <img src="https://img.shields.io/badge/JAVA-green?style=for-the-badge&logo=appveyor&logoColor=CC6699"/>
- <img src="https://img.shields.io/badge/Vue-green?style=for-the-badge&logo=Vue.js&logoColor=ffffff"/>
+![](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white") <img src="https://img.shields.io/badge/Vue-green?style=for-the-badge&logo=Vue.js&logoColor=ffffff"/>
  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=ffffff"/>
