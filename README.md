@@ -7,5 +7,5 @@
 </div>
 
  <img src="https://img.shields.io/badge/JAVA-green?style=for-the-badge&logo=appveyor&logoColor=CC6699"/>
- <img src="https://img.shields.io/badge/Vue-green?style=for-the-badge&logo=Vue.js&logoColor=CC6699"/>
+ <img src="https://img.shields.io/badge/Vue-green?style=for-the-badge&logo=Vue.js&logoColor=000000"/>
  <img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=appveyor&logoColor=CC6699"/>
