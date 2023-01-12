@@ -5,3 +5,5 @@
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWish-baek&count_bg=%23699142&title_bg=%239FB346&icon=smugmug.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
+
+ <img src="https://img.shields.io/badge/JAVA-green?style=for-the-badge&logo=appveyor&logoColor=CC6699"/>
