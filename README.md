@@ -14,6 +14,9 @@
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=GitHub&logoColor=ffffff"/> 
  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=GitHub&logoColor=ffffff"/>
  <br/>
- <img src="https://img.shields.io/badge/Vue-green?style=for-the-badge&logo=Vue.js&logoColor=ffffff"/>
+ <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=ffffff"/>
+  <br/>
  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=ffffff"/>
+ <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=GitHub&logoColor=ffffff"/>
+ <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitHub&logoColor=ffffff"/>
 
