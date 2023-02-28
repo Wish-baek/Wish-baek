@@ -5,9 +5,8 @@
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWish-baek&count_bg=%23699142&title_bg=%239FB346&icon=smugmug.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div><br/>
-
+# 🛠️STACK🛠️
 ![](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white")
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=GitHub&logoColor=ffffff"/>
 <br/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=ffffff"/> 
