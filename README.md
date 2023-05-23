@@ -23,3 +23,4 @@
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=ffffff"/>
 <br/>
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Jira-339AF0?style=for-the-badge&logo=jirasoftware&logoColor=white">
