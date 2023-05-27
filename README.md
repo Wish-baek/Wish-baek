@@ -1,9 +1,21 @@
 <div align="center" >
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=585858&text=Welcome&height=150&fontSize=60&desc=sowon's%20GitHub%20Profile&descAlignY=75&descAlign=60)
+ 
 
+ 
+ <div align="right">
+ 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWish-baek&count_bg=%23699142&title_bg=%239FB346&icon=smugmug.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+ </div>
+  
+<br/>
+ 
 </div>
+
 <div align="center" >
+ 
  
 ## 🛠️STACK🛠️
  
@@ -28,6 +40,9 @@
  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=ffffff"/>
  <img src="https://img.shields.io/badge/Jira-339AF0?style=for-the-badge&logo=jirasoftware&logoColor=white">
                                                                                                          -->
+ 
+ 
+ 
  <kbd> <img src="https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logo=OpenJDK&logoColor=000000)"/></kbd> &#160;
  <kbd> <img src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=JavaScript&logoColor=000000"/></kbd> &#160;
  <kbd> <img src="https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=TypeScript&logoColor=000000"/> </kbd> &#160;
