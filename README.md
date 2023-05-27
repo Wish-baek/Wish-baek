@@ -2,17 +2,12 @@
 
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=585858&text=Welcome&height=150&fontSize=60&desc=sowon's%20GitHub%20Profile&descAlignY=75&descAlign=60)
  
-
- 
- <div align="right">
+<div align="right">
  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWish-baek&count_bg=%23699142&title_bg=%239FB346&icon=smugmug.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
- </div>
-  
-<br/>
- 
 </div>
+
 
 <div align="center" >
  
